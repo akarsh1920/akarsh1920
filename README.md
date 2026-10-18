@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Akarsh Aggarwal 
+currently a first year B.Tech cse student 
+skills I am currently working on or completed c,c++, python,mysql
+a learner 
+
 
 <!--
 **akarsh1920/akarsh1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
